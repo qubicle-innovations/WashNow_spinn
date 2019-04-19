@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/wash_splash_bg" >
+
+    <EditText
+        android:id="@+id/etEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/graystrokebg"
+        android:ems="10"
+        android:hint="Email"
+        android:minWidth="150dp"
+        android:padding="5dp"
+        android:inputType="textEmailAddress"
+            
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:visibility="gone" />
+
+    <EditText
+        android:id="@+id/etName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/etEmail"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/graystrokebg"
+        android:ems="10"
+        android:hint="Name"
+        android:minWidth="150dp"
+        android:padding="5dp"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:visibility="gone" >
+    </EditText>
+    <TextView
+        android:id="@+id/tvTerms"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/etEmail"
+        android:gravity="center"
+        android:padding="10dp"
+        android:visibility="gone"
+         android:textSize="11sp" />
+
+    <Button
+        android:id="@+id/btGo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/etEmail"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="35dp"
+        android:background="@drawable/transbtn"
+        android:padding="10dp"
+        android:text="START"
+        android:textColor="@color/white"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/imLogo"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/splash_logo" />
+
+</RelativeLayout>

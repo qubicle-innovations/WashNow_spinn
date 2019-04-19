@@ -1,0 +1,4 @@
+#Fri Apr 19 12:10:24 IST 2019
+base.0=/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/dex/release/mergeDexRelease/out
+path.0=classes.dex
+renamed.0=classes.dex

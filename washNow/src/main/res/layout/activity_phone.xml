@@ -1,0 +1,174 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/home_blue_medium"
+    android:gravity="center"
+    android:orientation="vertical">
+    <ImageView
+        android:id="@+id/imLogo"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/splash_logo" />
+
+    <LinearLayout
+        android:id="@+id/phone_auth_fields"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <LinearLayout
+                android:id="@+id/llMobile"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginTop="10dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:gravity="center"
+                    android:text="Mobile"
+                    android:textColor="@android:color/white"
+                    android:textSize="15sp" />
+
+                <View
+                    android:id="@+id/viewMobileBorder"
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginTop="8dp"
+                    android:background="@color/white" />
+
+
+
+                <ImageView
+                    android:id="@+id/imCountryFlag"
+                    android:layout_width="35dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="5dp"
+                    android:scaleType="centerInside"
+                    android:src="@drawable/flag_ae"
+                    android:textColor="@android:color/white"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/tvCountryCode"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:background="@android:color/transparent"
+                    android:text="+974"
+                    android:textColor="@android:color/white"
+                    android:textSize="15sp" />
+
+                <EditText
+                    android:id="@+id/etPhone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/textboxbg"
+                    android:gravity="center_vertical"
+                    android:inputType="phone"
+                    android:paddingLeft="5dp"
+                    android:text=""
+                    android:textColor="@android:color/white"
+                    android:textSize="15sp" />
+
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/llCode"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginTop="10dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:gravity="center"
+                    android:text="Verification Code"
+                    android:textColor="@android:color/white"
+                    android:textSize="15sp" />
+
+
+            <EditText
+                android:id="@+id/field_verification_code"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/textboxbg"
+                android:padding="5dp"
+                android:hint=""
+                android:layout_marginLeft="5dp"
+                android:gravity="center_vertical"
+                android:textColorHint="@android:color/darker_gray"
+                android:inputType="number"
+                android:textColor="@android:color/white" />
+                </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_marginTop="10dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:weightSum="3.0">
+
+            <Button
+                android:id="@+id/button_start_verification"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:textColor="@android:color/white"
+                android:background="@drawable/graystrokebg"
+                android:text="Send Code" />
+
+            <LinearLayout
+                android:id="@+id/llVerify"
+                android:layout_width="match_parent"
+                android:layout_marginTop="10dp"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/button_resend"
+                    android:layout_width="match_parent"
+                    android:textColor="@android:color/white"
+                    android:background="@drawable/graystrokebg"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="5dp"
+                    android:layout_weight="1.0"
+                    android:text="Resend" />
+
+                <Button
+                    android:id="@+id/button_verify_phone"
+                    android:layout_width="match_parent"
+                    android:layout_marginLeft="5dp"
+                    android:layout_height="wrap_content"
+                    android:textColor="@android:color/white"
+                    android:background="@drawable/graystrokebg"
+                    android:layout_weight="1.0"
+                    android:text="Verify" />
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

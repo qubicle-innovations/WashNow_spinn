@@ -1,0 +1,21 @@
+-keep class com.washnow.WashNowApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+-keep class com.washnow.SplashActivity { <init>(); }
+-keep class com.washnow.RequestPickupActivity { <init>(); }
+-keep class com.washnow.LoginActivity { <init>(); }
+-keep class com.washnow.PhoneAuthActivity { <init>(); }
+-keep class com.washnow.FAQActivity { <init>(); }
+-keep class com.washnow.WebViewActivity { <init>(); }
+-keep class com.washnow.OrderStatusActivity { <init>(); }
+-keep class com.washnow.MapActivity { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
+-keep class com.google.firebase.iid.FirebaseInstanceIdInternalReceiver { <init>(); }
+-keep class com.google.firebase.iid.FirebaseInstanceIdService { <init>(); }
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }

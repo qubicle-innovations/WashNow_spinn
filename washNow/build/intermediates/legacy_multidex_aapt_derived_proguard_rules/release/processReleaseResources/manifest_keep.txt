@@ -1,0 +1,4 @@
+# Referenced at /Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/merged_manifests/release/AndroidManifest.xml:36
+-keep class android.support.v4.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/merged_manifests/release/AndroidManifest.xml:36
+-keep class com.washnow.WashNowApplication { <init>(); }

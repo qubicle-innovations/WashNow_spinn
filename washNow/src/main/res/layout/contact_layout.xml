@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:background="@android:color/white"
+    android:padding="20dp"
+    android:layout_height="90dp">
+    <ImageView
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:id="@+id/imDial"
+        android:src="@drawable/ic_phone_dark"
+        android:layout_height="50dp"
+        />
+    <ImageView
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:id="@+id/imEmail"
+        android:src="@drawable/ic_mail_dark"
+        android:layout_height="50dp"
+        />
+</LinearLayout>

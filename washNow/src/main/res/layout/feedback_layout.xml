@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="240dp"
+    android:padding="10dp"
+    android:background="@color/white"
+    android:layout_height="220dp">
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:textColor="@color/black"
+        android:text="Rate your last order"/>
+    <me.zhanghai.android.materialratingbar.MaterialRatingBar
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/tv_title"
+        android:layout_marginTop="10dp"
+        android:id="@+id/rbFeedback"
+
+        style="@style/Widget.MaterialRatingBar.RatingBar" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:inputType="textPersonName"
+        android:hint="Feedback"
+        android:layout_below="@+id/rbFeedback"
+        android:padding="5dp"
+        android:layout_marginTop="10dp"
+        android:ems="10"
+        android:id="@+id/etFeedback" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="Submit"
+        android:textColor="@color/black"
+        android:layout_alignParentBottom="true"
+         android:layout_centerHorizontal="true"
+        android:layout_gravity="center|bottom"
+        android:id="@+id/btSubmit"
+        android:background="@android:color/transparent"/>
+
+
+</RelativeLayout>

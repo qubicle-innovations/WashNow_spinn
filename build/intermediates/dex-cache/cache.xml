@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-24.0.0_f61a7c5e044aa55864715474d48fa0cffc0270b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-awareness-10.0.1_c71c0fc9c7fd070d2a53e80f76bc32b5ede1b6b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-10.0.1_76e50cd482261b0811a09543cedbb577e52bdf4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_a47057c7faab855c954a0dd240031fe519c2da70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0_9ccd1cdb6e1c86ec06716183c0ca858fc0c52df1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-10.0.1_1c5fae4eef60205ecfccd491aefe9ff90e61ed25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-10.0.1_49597ee2705a0c93cecbbcb810cd2842db87404e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-10.0.1_9aea5f4b16fbf35fd4f8294081b6180b8e481100.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-10.0.1_d3b8793d2df927d785e9cc992537ef18330fea31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-10.0.1_167c2e29b918f08aab11e263c6768ed2052deba9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/libs/jackson-databind-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="98364cd86063fe995199a1eb8268319d3e5db1f9">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/jackson-databind-2.1.0_d50402ef5c24c4b58968c9c129c5882203fdf28c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_351bfc6ef88252e9f9ec0c1b93762e8343567c7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-10.0.1_33320fea9311dc7125c1bc8861f651193ec2d59e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.0.1_4205de3fe21eb4aeb06b44deb9cf085ef5549e50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-10.0.1_9b946c3b5f3f5220bacab96d0a76a7c538962c78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0_4d43d5ab97682b946e11106ca56419f0b1573266.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-10.0.1_5f79ba612d2b57347a373775cad0a5e98c4152af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-10.0.1_ea9c8a70649c2ff8825cdcfbc69787a8e577857a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-10.0.1_ee88961b9e8411762f1b50fa5260f9c3c04fc0fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-10.0.1_70c478739316c94b690ae743d40355b9fe2bcb9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-10.0.1_d26ff6212a0546cd3c6b8fcdcf5bdd18fc2026dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.0.1_194bd8edb1ce66d6276a3db7fb9ac5d185c45c57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-10.0.1_20bc92bfa62bc6625901a8aa3defbf73ea5473d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-10.0.1_fc3e668df6b25c1ce3f75e0ccb041ba8ac56560b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-10.0.1_d02624d2bd3a200d64c73f99aaa6892414bcd075.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/libs/jackson-core-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6575afa4a9b3dc94dec2fa6082847e6987de651c">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/jackson-core-2.1.0_9bdb40162881a87ae2df42a94f3b833bcb8bb6c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-10.0.1_e8244778b66aadd33a082b52607e0543bdd1eab0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-10.0.1_354fe084548a24799524da01720bd5259d59fd75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-framework-10.0.1_0554ebf3152ef67c5d4d7271a814d6d2e611c731.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-10.0.1_e504abbef799661eef8cd0bb03dfb0223efb06b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/libs/jackson-annotations-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="adaa16df5f1ff56b40fb59362c83886f5413096c">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/jackson-annotations-2.1.0_ba9528c38587eba1f686058d83ea9e24eba4d065.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-10.0.1_6b9244f9c89c464515807531c042b010a98e3c49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-10.0.1_f3c18a47488f63719672c51df3bf7ebdfc79f942.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.0.1_83458d65775ee9b05eac5a3e1f9aa54402cfbfb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-10.0.1_0183d97188d31e40aab679d01a679b8a41ec5a27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-api-10.0.1_5c97cfa9ad3845b1fee74c930abb1c405e44330b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-10.0.1_2b8f237ecb5b8cd9899ac54e45443e3019182bd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.0.1_2b1e7621fee50554f410ae0ee47cd2fd892a544f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.1_1113d1798fb819baddfe13b800adb2013bb7f899.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-24.0.0_859fe7af9491cefcbca30bdb134af15625279ed9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.0.1_057a11f6e0db5f282988b1d50fe4d94930fb5478.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_3afd7bfee3552a60afef57d41551ba2ca984626e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-places-10.0.1_4cd04ac9aa6b10b97606f91196c57a82bc1d0351.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/WashNow/resideMenu/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="094bcba8795f31ccac5b117fadb1a155bd3bca83">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/WashNow-resideMenu-unspecified_b82b981cc2f8489f6f1018545e14260948dcb4cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.1_85fcccc6dde17b4ae1a3c8da009dab01eb5cd394.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-10.0.1_118776b2f158d6a1661d3f733a545a2217a73e16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_3d8cb6bf1e88f8c9ec2f0845dd00d1e6d053cbb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-10.0.1_d7d38e7af79d4cda44b44e6648d26de105fc65b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_e9fcfcc5d25bf15aff299dd8fae17d21d58c5557.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-10.0.1_684978c87b39792efda6a0629755b976e3673c86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-instantapps-10.0.1_872e863ef3751dbcc7905e4fb3bd8f3f575f996c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_12ac83f17426a655a1049d0175bc241d1b76f464.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-10.0.1_53a421b1b05a085be7f94da67ce0f64ad2f085c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-10.0.1_c63bea610d4cf723014c3b891be80e235ae99eda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-10.0.1_94a7870c248c73aa72e1f4d0437a1a7aba62352d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_ffe2a17eab5470b1c9ccac868443e50db65ec21d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/WashNow/resideMenu/unspecified/jars/libs/nineoldandroids-library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f086e018e187da53a1432c188023c86d1fa3ff73">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/nineoldandroids-library-2.4.0_11fe8403f2dc2e764786b1fe97e4a4ca6dcb637a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-10.0.1_3000370e1ee3f2293c13a0ef1b567116fe4e81ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-10.0.1_edc3f05daa5372bcd2397f63aa19896c18825ce7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-10.0.1_b6a755d3e66817bf2fc674a859296f026c1a0148.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-10.0.1_62d73cb7bd7a2fb266926b5825f3e216b192f155.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="/Users/aswin/Dropbox/Android Studio Workspace/WashNow/washNow/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-appindexing-10.0.1_086dcdc09a5dd8950c799d732402104dc3120589.jar" />
+    </item>
+
+</items>
