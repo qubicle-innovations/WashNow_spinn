@@ -1,0 +1,297 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.spinwash"
+4    android:versionCode="21"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:7:5-8:11
+8        android:minSdkVersion="16"
+8-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:7:5-8:11
+9        android:targetSdkVersion="28" />
+9-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:7:5-8:11
+10
+11    <permission
+11-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:10:5-12:47
+12        android:name="com.spinwash.permission.MAPS_RECEIVE"
+12-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:11:9-60
+13        android:protectionLevel="signature" />
+13-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:12:9-44
+14
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:14:5-67
+15-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:14:22-64
+16    <uses-permission android:name="android.permission.WAKE_LOCK" />
+16-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:15:5-68
+16-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:15:22-65
+17    <uses-permission android:name="com.washnow.permission.MAPS_RECEIVE" />
+17-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:16:5-75
+17-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:16:22-72
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:17:5-79
+18-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:17:22-76
+19    <uses-permission android:name="android.permission.VIBRATE" />
+19-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:18:5-66
+19-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:18:22-63
+20    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+20-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:19:5-81
+20-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:19:22-78
+21    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+21-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:20:5-79
+21-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:20:22-76
+22    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+22-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:21:5-98
+22-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:21:22-95
+23
+24    <uses-feature
+24-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:23:5-25:35
+25        android:glEsVersion="0x00020000"
+25-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:24:9-41
+26        android:required="true" />
+26-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:25:9-32
+27
+28    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+28-->[com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:22:5-81
+28-->[com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:22:22-79
+29
+30    <permission
+30-->[com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:24:5-109
+31        android:name="com.spinwash.permission.C2D_MESSAGE"
+31-->[com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:24:17-71
+32        android:protectionLevel="signature" />
+32-->[com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:24:72-107
+33
+34    <uses-permission android:name="com.spinwash.permission.C2D_MESSAGE" />
+34-->[com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:26:5-78
+34-->[com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:26:22-76
+35
+36    <application
+36-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:27:5-85:19
+37        android:name="com.spinwash.WashNowApplication"
+37-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:28:9-55
+38        android:allowBackup="true"
+38-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:29:9-35
+39        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+39-->[com.android.support:support-compat:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/c60d1f9de3c1a44752615b6958373a3f/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+40        android:debuggable="true"
+41        android:icon="@mipmap/ic_launcher"
+41-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:30:9-43
+42        android:label="@string/app_name"
+42-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:32:9-41
+43        android:roundIcon="@mipmap/ic_launcher_round"
+43-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:31:9-54
+44        android:testOnly="true"
+45        android:theme="@style/AppTheme"
+45-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:34:9-40
+46        android:usesCleartextTraffic="true" >
+46-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:33:9-44
+47        <uses-library
+47-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:35:9-88
+48            android:name="org.apache.http.legacy"
+48-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:35:23-60
+49            android:required="false" />
+49-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:35:61-85
+50        <uses-library android:name="com.google.android.maps" />
+50-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:37:9-64
+50-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:37:23-61
+51
+52        <activity
+52-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:39:9-50:20
+53            android:name="com.spinwash.SplashActivity"
+53-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:40:13-55
+54            android:exported="true"
+54-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:41:13-36
+55            android:label="@string/app_name"
+55-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:42:13-45
+56            android:screenOrientation="portrait" >
+56-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:43:13-49
+57            <intent-filter>
+57-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:45:13-49:29
+58                <action android:name="android.intent.action.MAIN" />
+58-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:46:17-69
+58-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:46:25-66
+59
+60                <category android:name="android.intent.category.LAUNCHER" />
+60-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:48:17-77
+60-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:48:27-74
+61            </intent-filter>
+62        </activity>
+63        <activity
+63-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:51:9-54:61
+64            android:name="com.spinwash.RequestPickupActivity"
+64-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:52:13-62
+65            android:label="@string/app_name"
+65-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:53:13-45
+66            android:screenOrientation="portrait" />
+66-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:54:13-49
+67        <activity
+67-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:55:9-57:48
+68            android:name="com.spinwash.LoginActivity"
+68-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:56:13-54
+69            android:label="@string/app_name" />
+69-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:57:13-45
+70        <activity
+70-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:58:9-60:48
+71            android:name="com.spinwash.PhoneAuthActivity"
+71-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:59:13-58
+72            android:label="@string/app_name" />
+72-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:60:13-45
+73        <activity
+73-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:61:9-63:48
+74            android:name="com.spinwash.FAQActivity"
+74-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:62:13-52
+75            android:label="@string/app_name" />
+75-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:63:13-45
+76        <activity
+76-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:64:9-66:48
+77            android:name="com.spinwash.WebViewActivity"
+77-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:65:13-56
+78            android:label="@string/app_name" />
+78-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:66:13-45
+79        <activity
+79-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:67:9-69:48
+80            android:name="com.spinwash.OrderStatusActivity"
+80-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:68:13-60
+81            android:label="@string/app_name" />
+81-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:69:13-45
+82        <activity
+82-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:70:9-72:48
+83            android:name="com.spinwash.MapActivity"
+83-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:71:13-52
+84            android:label="@string/app_name" />
+84-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:72:13-45
+85
+86        <meta-data
+86-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:74:9-76:69
+87            android:name="com.google.android.gms.version"
+87-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:75:13-58
+88            android:value="@integer/google_play_services_version" />
+88-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:76:13-66
+89        <meta-data
+89-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:77:9-79:71
+90            android:name="com.google.android.geo.API_KEY"
+90-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:78:13-58
+91            android:value="AIzaSyBo8_zFsr-krkJe7-rKz62kEi6B4q9GEC0" />
+91-->/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:79:13-68
+92
+93        <!--
+94            <meta-data
+95            android:name="com.google.android.maps.v2.API_KEY"
+96            android:value="@string/map_release_id" />
+97        -->
+98        <activity
+98-->[com.google.android.gms:play-services-base:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/057c142b5e0f59ea26a75b340fbae008/play-services-base-11.0.0/AndroidManifest.xml:19:9-172
+99            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+99-->[com.google.android.gms:play-services-base:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/057c142b5e0f59ea26a75b340fbae008/play-services-base-11.0.0/AndroidManifest.xml:19:19-85
+100            android:exported="false"
+100-->[com.google.android.gms:play-services-base:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/057c142b5e0f59ea26a75b340fbae008/play-services-base-11.0.0/AndroidManifest.xml:19:146-170
+101            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+101-->[com.google.android.gms:play-services-base:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/057c142b5e0f59ea26a75b340fbae008/play-services-base-11.0.0/AndroidManifest.xml:19:86-145
+102
+103        <receiver
+103-->[com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:25:7-26:18
+104            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+104-->[com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:25:17-89
+105            android:enabled="true"
+105-->[com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:25:90-112
+106            android:exported="false" >
+106-->[com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:25:113-137
+107        </receiver>
+108        <receiver
+108-->[com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:27:7-31:18
+109            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+109-->[com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:27:17-104
+110            android:enabled="true"
+110-->[com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:27:162-184
+111            android:exported="true"
+111-->[com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:27:185-208
+112            android:permission="android.permission.INSTALL_PACKAGES" >
+112-->[com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:27:105-161
+113            <intent-filter>
+113-->[com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:28:11-30:27
+114                <action android:name="com.android.vending.INSTALL_REFERRER" />
+114-->[com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:29:15-76
+114-->[com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:29:23-74
+115            </intent-filter>
+116        </receiver>
+117
+118        <service
+118-->[com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:32:7-137
+119            android:name="com.google.android.gms.measurement.AppMeasurementService"
+119-->[com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:32:16-87
+120            android:enabled="true"
+120-->[com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:32:88-110
+121            android:exported="false" />
+121-->[com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:32:111-135
+122        <service
+122-->[com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:33:7-197
+123            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+123-->[com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:33:16-90
+124            android:enabled="true"
+124-->[com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:33:148-170
+125            android:exported="false"
+125-->[com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:33:171-195
+126            android:permission="android.permission.BIND_JOB_SERVICE" />
+126-->[com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:33:91-147
+127
+128        <receiver
+128-->[com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:30:9-35:20
+129            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+129-->[com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:30:19-84
+130            android:exported="true"
+130-->[com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:30:85-108
+131            android:permission="com.google.android.c2dm.permission.SEND" >
+131-->[com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:30:109-169
+132            <intent-filter>
+132-->[com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:31:13-34:29
+133                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+133-->[com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:32:17-80
+133-->[com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:32:25-78
+134
+135                <category android:name="com.spinwash" />
+135-->[com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:33:17-60
+135-->[com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:33:27-58
+136            </intent-filter>
+137        </receiver>
+138        <!--
+139 Internal (not exported) receiver used by the app to start its own exported services
+140             without risk of being spoofed.
+141        -->
+142        <receiver
+142-->[com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:39:9-119
+143            android:name="com.google.firebase.iid.FirebaseInstanceIdInternalReceiver"
+143-->[com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:39:19-92
+144            android:exported="false" />
+144-->[com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:39:93-117
+145        <!--
+146 FirebaseInstanceIdService performs security checks at runtime,
+147             no need for explicit permissions despite exported="true"
+148        -->
+149        <service
+149-->[com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:43:9-47:19
+150            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+150-->[com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:43:18-82
+151            android:exported="true" >
+151-->[com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:43:83-106
+152            <intent-filter android:priority="-500" >
+152-->[com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:44:13-46:29
+152-->[com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:44:28-51
+153                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+153-->[com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:45:17-79
+153-->[com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:45:25-77
+154            </intent-filter>
+155        </service>
+156
+157        <provider
+157-->[com.google.firebase:firebase-common:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/1d01cb88602babde78348c9255e4238e/firebase-common-11.0.0/AndroidManifest.xml:6:9-194
+158            android:name="com.google.firebase.provider.FirebaseInitProvider"
+158-->[com.google.firebase:firebase-common:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/1d01cb88602babde78348c9255e4238e/firebase-common-11.0.0/AndroidManifest.xml:6:79-143
+159            android:authorities="com.spinwash.firebaseinitprovider"
+159-->[com.google.firebase:firebase-common:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/1d01cb88602babde78348c9255e4238e/firebase-common-11.0.0/AndroidManifest.xml:6:19-78
+160            android:exported="false"
+160-->[com.google.firebase:firebase-common:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/1d01cb88602babde78348c9255e4238e/firebase-common-11.0.0/AndroidManifest.xml:6:144-168
+161            android:initOrder="100" />
+161-->[com.google.firebase:firebase-common:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/1d01cb88602babde78348c9255e4238e/firebase-common-11.0.0/AndroidManifest.xml:6:169-192
+162    </application>
+163
+164</manifest>

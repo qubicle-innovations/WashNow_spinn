@@ -1,10 +1,13 @@
 <component name="libraryTable">
   <library name="Gradle: me.zhanghai.android.materialratingbar:library:1.0.2@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.0.2.aar/26d530c9f5c598c157a59e1020ddf5fd/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.0.2.aar/26d530c9f5c598c157a59e1020ddf5fd/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bdd2fa5819ee5ea7349cb61effaeedaf/library-1.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bdd2fa5819ee5ea7349cb61effaeedaf/library-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bdd2fa5819ee5ea7349cb61effaeedaf/library-1.0.2/res" />
     </CLASSES>
-    <JAVADOC />
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.zhanghai.android.materialratingbar/library/1.0.2/a5dcc771b49248d00c86866d7e1534751ef7176f/library-1.0.2-javadoc.jar!/" />
+    </JAVADOC>
     <SOURCES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.zhanghai.android.materialratingbar/library/1.0.2/ce4a13f16766f9b13c354842608edc7be40834ea/library-1.0.2-sources.jar!/" />
     </SOURCES>

@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/WashNow.iml" filepath="$PROJECT_DIR$/WashNow.iml" />
-      <module fileurl="file://$PROJECT_DIR$/resideMenu/resideMenu.iml" filepath="$PROJECT_DIR$/resideMenu/resideMenu.iml" />
-      <module fileurl="file://$PROJECT_DIR$/washNow/washNow.iml" filepath="$PROJECT_DIR$/washNow/washNow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WashNow_spinn.iml" filepath="$PROJECT_DIR$/.idea/modules/WashNow_spinn.iml" group="WashNow_spinn" />
+      <module fileurl="file://$PROJECT_DIR$/resideMenu/resideMenu.iml" filepath="$PROJECT_DIR$/resideMenu/resideMenu.iml" group="WashNow_spinn/resideMenu" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spinwash/spinwash.iml" filepath="$PROJECT_DIR$/.idea/modules/spinwash/spinwash.iml" group="WashNow_spinn/spinwash" />
     </modules>
   </component>
 </project>

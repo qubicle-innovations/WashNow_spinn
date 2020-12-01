@@ -1,0 +1,4 @@
+# Referenced at /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/washNow/build/intermediates/merged_manifests/debug/AndroidManifest.xml:36
+-keep class android.support.v4.app.CoreComponentFactory { <init>(); }
+# Referenced at /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/washNow/build/intermediates/merged_manifests/debug/AndroidManifest.xml:36
+-keep class com.spinwash.WashNowApplication { <init>(); }

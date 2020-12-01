@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "/mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "7,21,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "220,962,368",
+                        "endLines": "9,24,19",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "363,1161,956"
+                    },
+                    "to": {
+                        "startLines": "2,5,9",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,203,407",
+                        "endLines": "4,8,18",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "198,402,995"
+                    }
+                }
+            ]
+        }
+    ]
+}

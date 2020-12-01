@@ -1,0 +1,516 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:1:1-87:12
+INJECTED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:1:1-87:12
+INJECTED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:1:1-87:12
+INJECTED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:1:1-87:12
+MERGED from [:resideMenu] /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/resideMenu/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.mukeshsolanki:country-picker-android:1.1.6] /home/sachith/.gradle/caches/transforms-2/files-2.1/124a8e738e2f7547c4bf922172674196/country-picker-android-1.1.6/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-places:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/e5ab6583c701e97a231706dbf61174ad/play-services-places-11.0.0/AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support:design:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/e2768191a8781d4ca6d05442da20d7bb/design-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/d72e3d27202b496cddff1bb847d54b95/cardview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:multidex:1.0.2] /home/sachith/.gradle/caches/transforms-2/files-2.1/db82bc09581dca7bcb1ae107694c94b6/multidex-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-core:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/5afa0b747f3bee7327183e2f854b14e7/firebase-core-11.0.0/AndroidManifest.xml:2:1-6:12
+MERGED from [me.zhanghai.android.materialratingbar:library:1.0.2] /home/sachith/.gradle/caches/transforms-2/files-2.1/bdd2fa5819ee5ea7349cb61effaeedaf/library-1.0.2/AndroidManifest.xml:6:1-16:12
+MERGED from [com.google.firebase:firebase-auth:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/ed108971e16b9a18bd45a94f84ac2cdc/firebase-auth-11.0.0/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-maps:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/605fd53cb04d8b449dc5454953854a52/play-services-maps-11.0.0/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-base:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/057c142b5e0f59ea26a75b340fbae008/play-services-base-11.0.0/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:16:1-35:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/9c7fe01274e48177ccc34a97e6bae8fb/firebase-analytics-impl-11.0.0/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:16:1-50:12
+MERGED from [com.google.firebase:firebase-common:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/1d01cb88602babde78348c9255e4238e/firebase-common-11.0.0/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/c7d15cca9d6811c824afaa7c718991e2/play-services-tasks-11.0.0/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/34d40def0b56fedc7d4f9f4c072d393e/play-services-basement-11.0.0/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/1ec400f7148617f4588d0a2ddc22df69/support-v4-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/44d05bf6c38985be63f1e00a023813b4/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/42743c31baf637b4a5ce4770f88a3c0d/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/2fff0c06295fd8b7bb79bef693f8adcf/recyclerview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/390125309ae18a301ac9f87cb5384737/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/12fa6025de9c342860154684af2dfd33/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/908d69e7886bf101cdb74ebf9ca59b79/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/1a2fe42cf0721ac044302c76cbda7509/transition-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/c98607328a24c7779f4331c3da1b3ee1/support-media-compat-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/c3013d494dcebc3687ec3ed466c44b9c/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/acb577974c84aa51cab2c008a180b6d4/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/d28e10c3b98a4fff561b06489aa02606/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/8c6eac5788a728fcebb5e22fd0ecc18a/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/f3e71812e3f12de2e3d359531d0b0393/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/e134a8120ec62d8aa373226a4949a7b7/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/d3599b6521386df91b5bf474643c32a0/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/109764b1444f75ee345230921cf38f8e/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/d03ad5da14e51917060db79448ba01f5/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/c60d1f9de3c1a44752615b6958373a3f/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/139c7f72c0c9e5154df305e03b51a9c0/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4516f5a3b295e0a59eafdaac5038c6a3/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/sachith/.gradle/caches/transforms-2/files-2.1/6bf46cd721b4997e70e86221080cbda5/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/3145c673765b1696674712d00341f493/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/5bc34cf4637454b0814b3114faa97d95/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/be9858aa8585597c331a2645145e3367/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/29cf3bda9e8bd837f3b85160949e3d83/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/sachith/.gradle/caches/transforms-2/files-2.1/ac30f6a40d3c2a7211a51ca885ff291b/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sachith/.gradle/caches/transforms-2/files-2.1/0f43b1a5fd218c33b8134961dd28d310/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sachith/.gradle/caches/transforms-2/files-2.1/09e99ed7f17f410008bf25e97b088b07/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/sachith/.gradle/caches/transforms-2/files-2.1/6a2ffc5781031ea97fc704e40e0f7d20/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+INJECTED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:1:1-87:12
+INJECTED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:1:1-87:12
+INJECTED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:1:1-87:12
+	package
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:3:5-27
+		INJECTED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml
+		INJECTED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml
+		INJECTED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:2:5-51
+	xmlns:android
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:4:5-29
+		INJECTED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml
+		INJECTED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:7:5-8:11
+INJECTED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:7:5-8:11
+INJECTED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:7:5-8:11
+MERGED from [:resideMenu] /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/resideMenu/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:40
+MERGED from [:resideMenu] /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/resideMenu/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:40
+MERGED from [com.github.mukeshsolanki:country-picker-android:1.1.6] /home/sachith/.gradle/caches/transforms-2/files-2.1/124a8e738e2f7547c4bf922172674196/country-picker-android-1.1.6/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.mukeshsolanki:country-picker-android:1.1.6] /home/sachith/.gradle/caches/transforms-2/files-2.1/124a8e738e2f7547c4bf922172674196/country-picker-android-1.1.6/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.gms:play-services-places:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/e5ab6583c701e97a231706dbf61174ad/play-services-places-11.0.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/e5ab6583c701e97a231706dbf61174ad/play-services-places-11.0.0/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:design:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/e2768191a8781d4ca6d05442da20d7bb/design-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/e2768191a8781d4ca6d05442da20d7bb/design-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/d72e3d27202b496cddff1bb847d54b95/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/d72e3d27202b496cddff1bb847d54b95/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.2] /home/sachith/.gradle/caches/transforms-2/files-2.1/db82bc09581dca7bcb1ae107694c94b6/multidex-1.0.2/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /home/sachith/.gradle/caches/transforms-2/files-2.1/db82bc09581dca7bcb1ae107694c94b6/multidex-1.0.2/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-core:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/5afa0b747f3bee7327183e2f854b14e7/firebase-core-11.0.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/5afa0b747f3bee7327183e2f854b14e7/firebase-core-11.0.0/AndroidManifest.xml:4:5-43
+MERGED from [me.zhanghai.android.materialratingbar:library:1.0.2] /home/sachith/.gradle/caches/transforms-2/files-2.1/bdd2fa5819ee5ea7349cb61effaeedaf/library-1.0.2/AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialratingbar:library:1.0.2] /home/sachith/.gradle/caches/transforms-2/files-2.1/bdd2fa5819ee5ea7349cb61effaeedaf/library-1.0.2/AndroidManifest.xml:12:5-14:41
+MERGED from [com.google.firebase:firebase-auth:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/ed108971e16b9a18bd45a94f84ac2cdc/firebase-auth-11.0.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/ed108971e16b9a18bd45a94f84ac2cdc/firebase-auth-11.0.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/605fd53cb04d8b449dc5454953854a52/play-services-maps-11.0.0/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/605fd53cb04d8b449dc5454953854a52/play-services-maps-11.0.0/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/057c142b5e0f59ea26a75b340fbae008/play-services-base-11.0.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/057c142b5e0f59ea26a75b340fbae008/play-services-base-11.0.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/9c7fe01274e48177ccc34a97e6bae8fb/firebase-analytics-impl-11.0.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/9c7fe01274e48177ccc34a97e6bae8fb/firebase-analytics-impl-11.0.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/1d01cb88602babde78348c9255e4238e/firebase-common-11.0.0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/1d01cb88602babde78348c9255e4238e/firebase-common-11.0.0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/c7d15cca9d6811c824afaa7c718991e2/play-services-tasks-11.0.0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/c7d15cca9d6811c824afaa7c718991e2/play-services-tasks-11.0.0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/34d40def0b56fedc7d4f9f4c072d393e/play-services-basement-11.0.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/34d40def0b56fedc7d4f9f4c072d393e/play-services-basement-11.0.0/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/1ec400f7148617f4588d0a2ddc22df69/support-v4-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/1ec400f7148617f4588d0a2ddc22df69/support-v4-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/44d05bf6c38985be63f1e00a023813b4/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/44d05bf6c38985be63f1e00a023813b4/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/42743c31baf637b4a5ce4770f88a3c0d/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/42743c31baf637b4a5ce4770f88a3c0d/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/2fff0c06295fd8b7bb79bef693f8adcf/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/2fff0c06295fd8b7bb79bef693f8adcf/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/390125309ae18a301ac9f87cb5384737/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/390125309ae18a301ac9f87cb5384737/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/12fa6025de9c342860154684af2dfd33/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/12fa6025de9c342860154684af2dfd33/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/908d69e7886bf101cdb74ebf9ca59b79/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/908d69e7886bf101cdb74ebf9ca59b79/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/1a2fe42cf0721ac044302c76cbda7509/transition-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/1a2fe42cf0721ac044302c76cbda7509/transition-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/c98607328a24c7779f4331c3da1b3ee1/support-media-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/c98607328a24c7779f4331c3da1b3ee1/support-media-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/c3013d494dcebc3687ec3ed466c44b9c/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/c3013d494dcebc3687ec3ed466c44b9c/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/acb577974c84aa51cab2c008a180b6d4/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/acb577974c84aa51cab2c008a180b6d4/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/d28e10c3b98a4fff561b06489aa02606/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/d28e10c3b98a4fff561b06489aa02606/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/8c6eac5788a728fcebb5e22fd0ecc18a/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/8c6eac5788a728fcebb5e22fd0ecc18a/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/f3e71812e3f12de2e3d359531d0b0393/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/f3e71812e3f12de2e3d359531d0b0393/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/e134a8120ec62d8aa373226a4949a7b7/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/e134a8120ec62d8aa373226a4949a7b7/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/d3599b6521386df91b5bf474643c32a0/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/d3599b6521386df91b5bf474643c32a0/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/109764b1444f75ee345230921cf38f8e/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/109764b1444f75ee345230921cf38f8e/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/d03ad5da14e51917060db79448ba01f5/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/d03ad5da14e51917060db79448ba01f5/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/c60d1f9de3c1a44752615b6958373a3f/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/c60d1f9de3c1a44752615b6958373a3f/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/139c7f72c0c9e5154df305e03b51a9c0/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/139c7f72c0c9e5154df305e03b51a9c0/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4516f5a3b295e0a59eafdaac5038c6a3/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4516f5a3b295e0a59eafdaac5038c6a3/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/sachith/.gradle/caches/transforms-2/files-2.1/6bf46cd721b4997e70e86221080cbda5/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/sachith/.gradle/caches/transforms-2/files-2.1/6bf46cd721b4997e70e86221080cbda5/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/3145c673765b1696674712d00341f493/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/3145c673765b1696674712d00341f493/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/5bc34cf4637454b0814b3114faa97d95/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/5bc34cf4637454b0814b3114faa97d95/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/be9858aa8585597c331a2645145e3367/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/be9858aa8585597c331a2645145e3367/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/29cf3bda9e8bd837f3b85160949e3d83/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/29cf3bda9e8bd837f3b85160949e3d83/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/sachith/.gradle/caches/transforms-2/files-2.1/ac30f6a40d3c2a7211a51ca885ff291b/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/sachith/.gradle/caches/transforms-2/files-2.1/ac30f6a40d3c2a7211a51ca885ff291b/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sachith/.gradle/caches/transforms-2/files-2.1/0f43b1a5fd218c33b8134961dd28d310/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sachith/.gradle/caches/transforms-2/files-2.1/0f43b1a5fd218c33b8134961dd28d310/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sachith/.gradle/caches/transforms-2/files-2.1/09e99ed7f17f410008bf25e97b088b07/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sachith/.gradle/caches/transforms-2/files-2.1/09e99ed7f17f410008bf25e97b088b07/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/sachith/.gradle/caches/transforms-2/files-2.1/6a2ffc5781031ea97fc704e40e0f7d20/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/sachith/.gradle/caches/transforms-2/files-2.1/6a2ffc5781031ea97fc704e40e0f7d20/runtime-1.1.1/AndroidManifest.xml:20:5-44
+INJECTED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:7:5-8:11
+INJECTED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:7:5-8:11
+	tools:overrideLibrary
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:7:15-65
+	android:targetSdkVersion
+		INJECTED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:7:5-8:11
+		INJECTED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:7:5-8:11
+		INJECTED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml
+permission#com.spinwash.permission.MAPS_RECEIVE
+ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:10:5-12:47
+	android:protectionLevel
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:12:9-44
+	android:name
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:11:9-60
+uses-permission#android.permission.INTERNET
+ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:14:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/605fd53cb04d8b449dc5454953854a52/play-services-maps-11.0.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/605fd53cb04d8b449dc5454953854a52/play-services-maps-11.0.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/9c7fe01274e48177ccc34a97e6bae8fb/firebase-analytics-impl-11.0.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/9c7fe01274e48177ccc34a97e6bae8fb/firebase-analytics-impl-11.0.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:14:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:15:5-68
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/9c7fe01274e48177ccc34a97e6bae8fb/firebase-analytics-impl-11.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/9c7fe01274e48177ccc34a97e6bae8fb/firebase-analytics-impl-11.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:15:22-65
+uses-permission#com.washnow.permission.MAPS_RECEIVE
+ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:16:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:17:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/605fd53cb04d8b449dc5454953854a52/play-services-maps-11.0.0/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/605fd53cb04d8b449dc5454953854a52/play-services-maps-11.0.0/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/9c7fe01274e48177ccc34a97e6bae8fb/firebase-analytics-impl-11.0.0/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/9c7fe01274e48177ccc34a97e6bae8fb/firebase-analytics-impl-11.0.0/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:18:5-66
+	android:name
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:18:22-63
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:19:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:20:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:21:5-98
+	android:name
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:21:22-95
+uses-feature#0x00020000
+ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:23:5-25:35
+MERGED from [com.google.android.gms:play-services-maps:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/605fd53cb04d8b449dc5454953854a52/play-services-maps-11.0.0/AndroidManifest.xml:21:5-77
+MERGED from [com.google.android.gms:play-services-maps:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/605fd53cb04d8b449dc5454953854a52/play-services-maps-11.0.0/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:24:9-41
+	android:required
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:25:9-32
+application
+ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:27:5-85:19
+MERGED from [com.google.android.gms:play-services-places:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/e5ab6583c701e97a231706dbf61174ad/play-services-places-11.0.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/e5ab6583c701e97a231706dbf61174ad/play-services-places-11.0.0/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:design:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/e2768191a8781d4ca6d05442da20d7bb/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/e2768191a8781d4ca6d05442da20d7bb/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-core:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/5afa0b747f3bee7327183e2f854b14e7/firebase-core-11.0.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/5afa0b747f3bee7327183e2f854b14e7/firebase-core-11.0.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/ed108971e16b9a18bd45a94f84ac2cdc/firebase-auth-11.0.0/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/ed108971e16b9a18bd45a94f84ac2cdc/firebase-auth-11.0.0/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-maps:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/605fd53cb04d8b449dc5454953854a52/play-services-maps-11.0.0/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/605fd53cb04d8b449dc5454953854a52/play-services-maps-11.0.0/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/057c142b5e0f59ea26a75b340fbae008/play-services-base-11.0.0/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/057c142b5e0f59ea26a75b340fbae008/play-services-base-11.0.0/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/9c7fe01274e48177ccc34a97e6bae8fb/firebase-analytics-impl-11.0.0/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/9c7fe01274e48177ccc34a97e6bae8fb/firebase-analytics-impl-11.0.0/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/1d01cb88602babde78348c9255e4238e/firebase-common-11.0.0/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/1d01cb88602babde78348c9255e4238e/firebase-common-11.0.0/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/c7d15cca9d6811c824afaa7c718991e2/play-services-tasks-11.0.0/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/c7d15cca9d6811c824afaa7c718991e2/play-services-tasks-11.0.0/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/34d40def0b56fedc7d4f9f4c072d393e/play-services-basement-11.0.0/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/34d40def0b56fedc7d4f9f4c072d393e/play-services-basement-11.0.0/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/c60d1f9de3c1a44752615b6958373a3f/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/c60d1f9de3c1a44752615b6958373a3f/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/139c7f72c0c9e5154df305e03b51a9c0/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/139c7f72c0c9e5154df305e03b51a9c0/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/c60d1f9de3c1a44752615b6958373a3f/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:32:9-41
+	android:roundIcon
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:31:9-54
+	android:icon
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:30:9-43
+	android:allowBackup
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:29:9-35
+	android:theme
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:34:9-40
+	android:usesCleartextTraffic
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:33:9-44
+	android:name
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:28:9-55
+uses-library#org.apache.http.legacy
+ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:35:9-88
+	android:required
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:35:61-85
+	android:name
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:35:23-60
+uses-library#com.google.android.maps
+ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:37:9-64
+	android:name
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:37:23-61
+activity#com.spinwash.SplashActivity
+ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:39:9-50:20
+	android:screenOrientation
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:43:13-49
+	android:label
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:42:13-45
+	android:exported
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:41:13-36
+	android:name
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:40:13-55
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:45:13-49:29
+action#android.intent.action.MAIN
+ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:46:17-69
+	android:name
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:46:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:48:17-77
+	android:name
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:48:27-74
+activity#com.spinwash.RequestPickupActivity
+ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:51:9-54:61
+	android:screenOrientation
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:54:13-49
+	android:label
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:53:13-45
+	android:name
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:52:13-62
+activity#com.spinwash.LoginActivity
+ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:55:9-57:48
+	android:label
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:57:13-45
+	android:name
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:56:13-54
+activity#com.spinwash.PhoneAuthActivity
+ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:58:9-60:48
+	android:label
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:60:13-45
+	android:name
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:59:13-58
+activity#com.spinwash.FAQActivity
+ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:61:9-63:48
+	android:label
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:63:13-45
+	android:name
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:62:13-52
+activity#com.spinwash.WebViewActivity
+ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:64:9-66:48
+	android:label
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:66:13-45
+	android:name
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:65:13-56
+activity#com.spinwash.OrderStatusActivity
+ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:67:9-69:48
+	android:label
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:69:13-45
+	android:name
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:68:13-60
+activity#com.spinwash.MapActivity
+ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:70:9-72:48
+	android:label
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:72:13-45
+	android:name
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:71:13-52
+meta-data#com.google.android.gms.version
+ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:74:9-76:69
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/34d40def0b56fedc7d4f9f4c072d393e/play-services-basement-11.0.0/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/34d40def0b56fedc7d4f9f4c072d393e/play-services-basement-11.0.0/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:76:13-66
+	android:name
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:75:13-58
+meta-data#com.google.android.geo.API_KEY
+ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:77:9-79:71
+	android:value
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:79:13-68
+	android:name
+		ADDED from /mnt/7C6C29416C28F812/Qubicle/Washnow/WashNow_spinn/spinwash/src/main/AndroidManifest.xml:78:13-58
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/057c142b5e0f59ea26a75b340fbae008/play-services-base-11.0.0/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/057c142b5e0f59ea26a75b340fbae008/play-services-base-11.0.0/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/057c142b5e0f59ea26a75b340fbae008/play-services-base-11.0.0/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/057c142b5e0f59ea26a75b340fbae008/play-services-base-11.0.0/AndroidManifest.xml:19:19-85
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/9c7fe01274e48177ccc34a97e6bae8fb/firebase-analytics-impl-11.0.0/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/9c7fe01274e48177ccc34a97e6bae8fb/firebase-analytics-impl-11.0.0/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:27:17-104
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/9c7fe01274e48177ccc34a97e6bae8fb/firebase-analytics-impl-11.0.0/AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/9c7fe01274e48177ccc34a97e6bae8fb/firebase-analytics-impl-11.0.0/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/4b79dff38c49e31a471ce77ff31e2828/firebase-analytics-11.0.0/AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:24:17-71
+permission#com.spinwash.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:26:22-76
+uses-permission#com.spinwash.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:30:19-84
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:31:13-34:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.spinwash
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:33:27-58
+category#com.spinwash
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:43:18-82
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/dcd951e4f157791e82d37dee2fb8f97e/firebase-iid-11.0.0/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/1d01cb88602babde78348c9255e4238e/firebase-common-11.0.0/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/1d01cb88602babde78348c9255e4238e/firebase-common-11.0.0/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/1d01cb88602babde78348c9255e4238e/firebase-common-11.0.0/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/1d01cb88602babde78348c9255e4238e/firebase-common-11.0.0/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.0] /home/sachith/.gradle/caches/transforms-2/files-2.1/1d01cb88602babde78348c9255e4238e/firebase-common-11.0.0/AndroidManifest.xml:6:79-143
